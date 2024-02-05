@@ -1,0 +1,14 @@
+{
+    "outputs": [
+      {
+        "data": [
+          "Transcribed text appears here"
+        ],
+        "name": "transcribed_text",
+        "shape": [
+          1
+        ],
+        "datatype": "BYTES"
+      }
+    ]
+  }
