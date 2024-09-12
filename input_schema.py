@@ -21,6 +21,6 @@ INPUT_SCHEMA = {
         'datatype': 'BOOL',
         'required': True,
         'shape': [1],
-        'example': [True]
+        'example': [true]
     }
 }
