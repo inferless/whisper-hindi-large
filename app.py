@@ -1,8 +1,4 @@
-import json
-import numpy as np
-import torch
 from transformers import pipeline
-
 
 class InferlessPythonModel:
     def initialize(self):
