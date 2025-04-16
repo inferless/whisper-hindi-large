@@ -9,7 +9,7 @@ Whisper is an ASR (Automatic Spech Recognition) model developed by OpenAI. This 
 - Model class in `app.py` with `initialize`, `infer`, and `finalize` functions.
 - Custom runtime creation with necessary system and Python packages.
 - Model import via GitHub with `input_schema.py` file.
-- Recommended GPU: NVIDIA A100.
+- Recommended GPU: NVIDIA T4.
 - Custom runtime selection in advanced configuration.
 - Final review and deployment on the Inferless platform.
 
